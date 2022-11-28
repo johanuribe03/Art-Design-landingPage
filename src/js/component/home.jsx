@@ -19,8 +19,11 @@ const Home = () => {
 				<a href="http://www.4geeksacademy.com">4Geeks Academy</a>, with
 				love!
 			</p>
+			<Home />
 		</div>
+		
 	);
+
 };
 
 export default Home;

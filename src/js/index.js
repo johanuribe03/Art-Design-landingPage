@@ -7,6 +7,9 @@ import "../styles/index.css";
 
 //import your own components
 import Home from "./component/home.jsx";
+import Header from "./component/header.jsx";
+
+
 
 //render your react application
-ReactDOM.render(<Home />, document.querySelector("#app"));
+ReactDOM.render(<Header />, document.querySelector("#app"));
