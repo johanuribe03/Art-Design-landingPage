@@ -10,6 +10,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from "./component/home.jsx";
 import Header from "./component/header.jsx";
 import Hero from "./component/hero.jsx";
+import Footer from "./component/footer.jsx";
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <div className="app-wrapper">
             <Header />
             <Hero />
+            <Footer />
             
         </div>
     );
