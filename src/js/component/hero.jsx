@@ -12,10 +12,11 @@ const Hero = () => {
                 <p>And I'm a Photographer</p>
                 <button>Hire me</button>
             </div>
-        
-    </div>
+        </div>
        
     )
 };
 
 export default Hero;
+
+

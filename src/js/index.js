@@ -12,6 +12,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from "./component/home.jsx";
 import Header from "./component/header.jsx";
 import Hero from "./component/hero.jsx";
+import HeroImgWithText from "./component/hero-img-with-text.jsx";
+
 import Footer from "./component/footer.jsx";
 
 
@@ -20,6 +22,7 @@ function App() {
         <div className="app-wrapper">
             <Header />
             <Hero />
+            <HeroImgWithText />
             <Footer />
             
         </div>
